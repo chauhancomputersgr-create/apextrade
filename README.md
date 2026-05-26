@@ -1,0 +1,2 @@
+# apextrade
+trading competition app
