@@ -1,0 +1,8 @@
+{
+  "name": "Trading Competition Platform",
+  "description": "Secure trading arena for BTC & Gold demo assets. Features live charts, daily/weekly leaderboards, daily drawdown tracking, admin tournament manager, and Gemini-powered portfolio analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
